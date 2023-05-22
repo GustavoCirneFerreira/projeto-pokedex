@@ -4,4 +4,4 @@
 ### Este projeto foi realizado somente para praticar e aprender novas habilidades de front-end.
 
 ### Dentro deste projeto está incluido as imagens dos pokemons que utilizei.
-Sinta-se à vontade para cutucar com o código.
+Sinta-se à vontade para cutucar, observar ou interagir com o código.
